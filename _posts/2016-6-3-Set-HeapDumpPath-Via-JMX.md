@@ -2,14 +2,18 @@
 layout: post
 title: 使用JMX动态设置JVM的HeapDumpPath
 ---
+
 设置容器内存溢出时生成堆转存：
+
 ```
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:HeapDumpPath=/data2/log/resin/`date`.hprof
 ```
+
 偶尔发生内存溢出后发现生成的heap dump文件直接就叫\`date\`.hprof。
 搜索了一下发现其实还可以通过JMX去动态修改部分JVM设置：
-```
+
+```java
 import java.lang.management.ManagementFactory;
 import java.text.SimpleDateFormat;
 import java.util.Date;
