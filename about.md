@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### As a software developer
+### As a software developer & architect
 - back end: Java, Python, Bash Shell, SQL, JSP/Servlet, Spring, SpringMVC, etc.
-- front end: HTML, CSS, JavaScript, jQuery, jQuery-Mobile, BootStrap, HighCharts
-- middle ware: Tomcat, Redis, MySQL
+- front end: HTML, CSS, JavaScript, jQuery, jQuery-Mobile, BootStrap, HighCharts, etc.
+- middle ware: Tomcat, Redis, MySQL, etc.
 
 ### Contact me
 
