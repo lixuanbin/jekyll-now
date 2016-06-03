@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### As a software developer
+- back end: Java, Python, Bash Shell, SQL, JSP/Servlet, Spring, SpringMVC, etc.
+- front end: HTML, CSS, JavaScript, jQuery, jQuery-Mobile, BootStrap, HighCharts
+- middle ware: Tomcat, Redis, MySQL
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lxbjkben@163.com](mailto:lxbjkben@163.com)
